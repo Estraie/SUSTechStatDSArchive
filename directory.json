@@ -1857,6 +1857,17 @@
               "url": "STA201 运筹与优化/Assignment/12112627_李乐平_运筹与优化_Assignment6.pdf"
             }
           ]
+        },
+        {
+          "name": "Exam",
+          "path": "STA201 运筹与优化/Exam",
+          "directories": [],
+          "files": [
+            {
+              "name": "operational_research_optimization_midterm_2026.pdf",
+              "url": "STA201 运筹与优化/Exam/operational_research_optimization_midterm_2026.pdf"
+            }
+          ]
         }
       ],
       "files": []
@@ -2615,6 +2626,17 @@
         }
       ],
       "files": []
+    },
+    {
+      "name": "STA5006 高等随机过程",
+      "path": "STA5006 高等随机过程",
+      "directories": [],
+      "files": [
+        {
+          "name": "2026 Midterm Advanced Stochastic Processes.pdf",
+          "url": "STA5006 高等随机过程/2026 Midterm Advanced Stochastic Processes.pdf"
+        }
+      ]
     },
     {
       "name": "STA5007 高级自然语言处理",
